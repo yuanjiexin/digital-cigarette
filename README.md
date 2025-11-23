@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+这是一个 Gemini 3pro 生成的应用，它主要有两个场景
 
-# Run and deploy your AI Studio app
+## 对于不抽烟的人
+经常看到抽烟的同事能光明正大的下楼抽烟摸鱼，自己却总想不起来
+可以用这个应用提醒自己，可以下楼透口气摸摸鱼
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1lAJBcTnJm5PKgCNgziU00pkgmsYXnRBu
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 对于抽烟的人
+想抽烟的时候可以选择自己日常的香烟抽一口电子的
+在电子烟燃烧的过程中进行深呼吸，缓解自己想要抽烟的感觉
+抽完后可以看到自己这次电子烟节省的钱
